@@ -1,0 +1,12 @@
+[
+    {
+        "title": "assignment",
+        "description": "start working on django",
+        "status": "done"
+    },
+    {
+        "title": "presentation",
+        "description": "practice interview",
+        "status": "pending"
+    }
+]
